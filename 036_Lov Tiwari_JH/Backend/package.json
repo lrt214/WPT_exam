@@ -1,0 +1,19 @@
+{
+  "name": "q2_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "start":"nodemon src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cros": "^1.0.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
